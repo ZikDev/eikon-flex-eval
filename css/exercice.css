@@ -35,11 +35,11 @@
   align-items: center;
 }
 
-.element-blue {
+.exercice-4 .element-blue {
   order: 2;
 }
 
-.element-pink {
+.exercice-4 .element-pink {
   order: 1;
   align-self: flex-start;
 }
