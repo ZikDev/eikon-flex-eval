@@ -106,10 +106,11 @@
   align-content: center;
 }
 
-.exercice-9 .container .element {
+.exercice-9 .element {
   width: 50%;
   box-sizing: border-box;
 }
+
 /* 10. exercice-10 */
 .exercice-10 .container {
   display: flex;
