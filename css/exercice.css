@@ -45,7 +45,20 @@
 }
 
 /* 5. exercice-5 */
+.exercice-5 .container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+}
 
+.exercice-5 .element-red {
+  order: -2;
+}
+
+.exercice-5 .element-blue {
+  order: -1;
+}
 /* 6. exercice-6 */
 
 /* 7. exercice-7 */
